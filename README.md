@@ -1,27 +1,27 @@
 <div align="center">
   <p align="center">
-    <img src="https://img.shields.io/badge/GENNARO-BUONOMO-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/WEB-FRONTEND-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GENNARO-BUONOMO-ff9416?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/WEB-FRONTEND-282828?style=for-the-badge&logo=javascript&logoColor=f9f06b" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-50fa7b?style=for-the-badge" />
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff79c6&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Pixel-Perfect+Design;Innovative+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff9416&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Pixel-Perfect+Design;Believe+It!+🍥" alt="Typing SVG" />
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=GennaroBuonomo&label=PROFILE+VIEWS&color=ff79c6&style=for-the-badge" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=GennaroBuonomo&label=PROFILE+VIEWS&color=ff9416&style=for-the-badge" alt="views" />
 </div>
 
 <br />
 
 ### 💫 About Me
-"I am a **Frontend Developer** dedicated to creating **pixel-perfect**, **responsive**, and **user-friendly** web interfaces."
+"I am a **Frontend Developer** dedicated to creating **pixel-perfect**, **responsive**, and **user-friendly** web interfaces. *Believe it!* 🍥"
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql&theme=dark" alt="My Skills" />
 </p>
 
 ---
@@ -31,14 +31,14 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&bg_color=282828&title_color=ff9416&icon_color=f9f06b&text_color=ffffff" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&theme=dracula&locale=en" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&bg_color=282828&title_color=ff9416&text_color=ffffff&locale=en" height="180px" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=dracula" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=dark&background=282828&fire=ff9416&ring=ff9416&stroke=f9f06b&currStreakNum=ffffff" width="100%" />
 </div>
 
 ---
@@ -53,11 +53,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-Perché questo tema spacca:
-Leggibilità: Il contrasto tra il testo chiaro e i colori pastello è altissimo.
-
-Identità: È uno dei temi più iconici per programmatori, comunica subito che sei uno del settore.
-
-Coerenza: Ho cambiato il parametro color nel Typing SVG in ff79c6 per farlo matchare con i titoli dei grafici sotto.
-
-Se vuoi vedere qualcosa di totalmente diverso, posso mettertelo in modalità "Hacker" (verde neon su nero) o "Minimal" (bianco e grigio). Quale preferisci?
