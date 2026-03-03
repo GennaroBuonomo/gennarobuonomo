@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
     <img src="https://img.shields.io/badge/GENNARO-BUONOMO-ff9416?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/WEB-FRONTEND-282828?style=for-the-badge&logo=javascript&logoColor=f9f06b" />
+    <img src="https://img.shields.io/badge/WEB-FRONTEND-282828?style=for-the-badge&logo=javascript&logoColor=0D1117" />
     <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-50fa7b?style=for-the-badge" />
   </p>
 
