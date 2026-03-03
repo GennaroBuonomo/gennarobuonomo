@@ -15,13 +15,21 @@
 <br />
 
 ### 💫 About Me
-"I am a **Frontend Developer** dedicated to creating **pixel-perfect**, **responsive**, and **user-friendly** web interfaces."
+"I am a **Frontend Developer** dedicated to creating **pixel-perfect**, **responsive**, and **user-friendly** web interfaces. I love transforming complex problems into beautiful digital experiences, constantly exploring new technologies to build innovative projects."
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql" alt="My Skills" />
+</p>
+
+---
+
+### 🏆 Trophies
+<p align="center">
+  <img src="https://img.shields.io/badge/Main_Language-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Status-Active_Developer-brightgreen?style=flat-square" />
 </p>
 
 ---
@@ -35,4 +43,4 @@
   <a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>>
+</p>
