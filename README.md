@@ -1,51 +1,63 @@
-<h1 align="center">Ciao 👋, sono Gennaro Buonomo</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Gennaro%20Buonomo&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gennarobuonomo&label=Profile%20views&color=0e75b6&style=flat-square" alt="gennarobuonomo" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Frontend+Developer+Appassionato;Pixel-Perfect+Design;Esperienze+Digitali+Innovative" alt="Typing SVG" />
+  </p>
 
-<p align="center">
-  <strong>Frontend Developer</strong> appassionato nella creazione di interfacce <i>pixel-perfect</i> e <i>responsive</i>.
-</p>
+  <img src="https://komarev.com/ghpvc/?username=gennarobuonomo&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="views" />
+</div>
 
-<blockquote align="center">
-  "Amo trasformare problemi complessi in splendide esperienze digitali, esplorando costantemente nuove tecnologie per realizzare progetti innovativi."
-</blockquote>
+<br />
+
+### 💫 Su di me
+"Sono un **Frontend Developer** dedito alla creazione di interfacce web **pixel-perfect**, **responsive** e **user-friendly**. Amo trasformare problemi complessi in splendide esperienze digitali, esplorando costantemente nuove tecnologie per realizzare progetti innovativi."
 
 ---
 
-### 🛠️ Le mie tecnologie:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+### 🚀 Stack Tecnologico
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,tailwind,figma" alt="My Skills" />
 </p>
 
 ---
 
-### 📊 Statistiche GitHub:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gennarobuonomo&show_icons=true&locale=it&theme=tokyonight&hide_border=false" alt="Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gennarobuonomo&show_icons=true&locale=it&layout=compact&theme=tokyonight&hide_border=false" alt="Linguaggi" height="170" />
-</p>
+### 📊 Il mio ecosistema GitHub
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gennarobuonomo&show_icons=true&locale=it&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180px" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gennarobuonomo&show_icons=true&locale=it&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180px" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gennarobuonomo&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" width="100%" />
+</div>
 
+---
+
+### 🏆 Trofei
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gennarobuonomo&theme=tokyonight&hide_border=false" alt="Streak" height="170" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gennarobuonomo&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
 </p>
 
 ---
 
-### 📫 Parliamo!
-* 📧 Email: **gennarobuonomo66@gmail.com**
-* 📸 Instagram: [@g3nnar0_bu0n0m0](https://instagram.com/g3nnar0_bu0n0m0)
+### 🤝 Connettiamoci
+<div align="center">
+  <a href="mailto:gennarobuonomo66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/g3nnar0_bu0n0m0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
 
 <br />
 
 <p align="center">
-  <a href="https://instagram.com/g3nnar0_bu0n0m0" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/quote?container=base&title=Inspiration&theme=tokyonight" alt="Quote" />
 </p>
