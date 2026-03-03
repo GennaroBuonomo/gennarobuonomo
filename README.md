@@ -31,7 +31,7 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gennarobuonomo&show_icons=true&theme=tokyonight&locale=it" alt="Le mie statistiche" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gennarobuonomo&show_icons=true&theme=tokyonight&locale=it" alt="Stats Gennaro" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gennarobuonomo&layout=compact&theme=tokyonight&locale=en" height="180px" />
