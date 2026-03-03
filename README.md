@@ -6,10 +6,10 @@
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Pixel-Perfect+Design;Innovative+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff79c6&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Pixel-Perfect+Design;Innovative+Digital+Experiences" alt="Typing SVG" />
   </p>
 
-  <img src="https://komarev.com/ghpvc/?username=GennaroBuonomo&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=GennaroBuonomo&label=PROFILE+VIEWS&color=ff79c6&style=for-the-badge" alt="views" />
 </div>
 
 <br />
@@ -21,7 +21,7 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql" alt="My Skills" />
 </p>
 
 ---
@@ -31,14 +31,14 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&theme=dracula" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&theme=tokyonight&locale=en" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&theme=dracula&locale=en" height="180px" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=dracula" width="100%" />
 </div>
 
 ---
@@ -53,3 +53,11 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+Perché questo tema spacca:
+Leggibilità: Il contrasto tra il testo chiaro e i colori pastello è altissimo.
+
+Identità: È uno dei temi più iconici per programmatori, comunica subito che sei uno del settore.
+
+Coerenza: Ho cambiato il parametro color nel Typing SVG in ff79c6 per farlo matchare con i titoli dei grafici sotto.
+
+Se vuoi vedere qualcosa di totalmente diverso, posso mettertelo in modalità "Hacker" (verde neon su nero) o "Minimal" (bianco e grigio). Quale preferisci?
