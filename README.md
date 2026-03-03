@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Gennaro%20Buonomo&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://img.shields.io/badge/GENNARO_BUONOMO-Frontend_Developer-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Header" />
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Frontend+Developer+Appassionato;Pixel-Perfect+Design;Esperienze+Digitali+Innovative" alt="Typing SVG" />
