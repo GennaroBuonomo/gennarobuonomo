@@ -45,7 +45,9 @@
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gennarobuonomo&theme=tokyonight&column=4&margin-w=15" alt="Trophies" />
+  <img src="https://img.shields.io/badge/Main_Language-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Contributions-700+-orange?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Status-Active_Developer-brightgreen?style=flat-square" />
 </p>
 
 ---
