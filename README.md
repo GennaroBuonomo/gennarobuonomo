@@ -45,7 +45,7 @@
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gennarobuonomo&theme=tokyonight&no-frame=true&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gennarobuonomo&theme=tokyonight&column=4&margin-w=15" alt="Trophies" />
 </p>
 
 ---
