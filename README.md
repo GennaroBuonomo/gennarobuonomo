@@ -43,30 +43,19 @@
 
 ---
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="mailto:gennarobuonomo66@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="35" height="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <em>Always open to collaborating on new projects or just chatting about tech!</em>
-</p><h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="mailto:gennarobuonomo66@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="35" height="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35" />
-  </a>
-</p>
+### 🤝 Get in Touch
 
-<p align="center">
-  <em>Always open to collaborating on new projects or just chatting about tech!</em>
-</p>
+<a href="mailto:gennarobuonomo66@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/g3nnar0_bu0n0m0/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br><br>
+
+![Creative Divider](https://capsule-render.vercel.app/render?type=waving&color=0080FF&height=100&section=footer)
+
+</div>
