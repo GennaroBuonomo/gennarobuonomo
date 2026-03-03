@@ -6,7 +6,7 @@
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff9416&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Pixel-Perfect+Design;Believe+It!+🍥" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff9416&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Pixel-Perfect+Design;" alt="Typing SVG" />
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=GennaroBuonomo&label=PROFILE+VIEWS&color=ff9416&style=for-the-badge" alt="views" />
@@ -15,7 +15,7 @@
 <br />
 
 ### 💫 About Me
-"I am a **Frontend Developer** dedicated to creating **pixel-perfect**, **responsive**, and **user-friendly** web interfaces. *Believe it!* 🍥"
+" am a Frontend Developer dedicated to creating pixel-perfect, responsive, and user-friendly web interfaces. I love transforming complex problems into beautiful digital experiences, constantly exploring new technologies to build innovative projects."
 
 ---
 
