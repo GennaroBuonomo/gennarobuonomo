@@ -26,23 +26,6 @@
 
 ---
 
-### 📊 GitHub Ecosystem
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&theme=radical" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&theme=radical&locale=en" height="180px" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=radical" width="100%" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 <p align="center">
   <a href="mailto:gennarobuonomo66@gmail.com">
@@ -52,4 +35,4 @@
   <a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
+</p>>
