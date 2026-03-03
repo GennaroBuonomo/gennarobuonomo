@@ -21,7 +21,7 @@
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,git,tailwind,figma" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql" alt="My Skills" />
 </p>
 
 ---
@@ -31,14 +31,14 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gennarobuonomo&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180px" alt="Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=gennarobuonomo&show_icons=true&theme=tokyonight&locale=en" height="180px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gennarobuonomo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180px" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gennarobuonomo&layout=compact&theme=tokyonight&locale=en" height="180px" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gennarobuonomo&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gennarobuonomo&theme=tokyonight" width="100%" />
 </div>
 
 ---
