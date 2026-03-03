@@ -1,8 +1,9 @@
 <div align="center">
   <p align="center">
-  <img src="https://img.shields.io/badge/DESIGN-PIXEL_PERFECT-FF69B4?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/GENNARO-DEVELOPER-0e75b6?style=for-the-badge&logo=react&logoColor=white" />
-</p>
+   <img src="https://img.shields.io/badge/GENNARO-BUONOMO-0e75b6?style=for-the-badge&logo=github&logoColor=white" />
+   <img src="https://img.shields.io/badge/WEB-FRONTEND-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+   <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-brightgreen?style=for-the-badge" />
+  </p>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Frontend+Developer+Appassionato;Pixel-Perfect+Design;Esperienze+Digitali+Innovative" alt="Typing SVG" />
