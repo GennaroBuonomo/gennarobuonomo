@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://img.shields.io/badge/GENNARO_BUONOMO-Frontend_Developer-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Header" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/DESIGN-PIXEL_PERFECT-FF69B4?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/GENNARO-DEVELOPER-0e75b6?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Frontend+Developer+Appassionato;Pixel-Perfect+Design;Esperienze+Digitali+Innovative" alt="Typing SVG" />
