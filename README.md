@@ -43,12 +43,30 @@
 
 ---
 
-<div align="center">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="mailto:gennarobuonomo66@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="35" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35" />
+  </a>
+</p>
 
-## 🤝 Let's Connect
+<p align="center">
+  <em>Always open to collaborating on new projects or just chatting about tech!</em>
+</p><h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="mailto:gennarobuonomo66@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="35" height="35" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="35" height="35" />
+  </a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gennarobuonomo66@gmail.com)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/g3nnar0_bu0n0m0/)
-
-</div>
+<p align="center">
+  <em>Always open to collaborating on new projects or just chatting about tech!</em>
+</p>
