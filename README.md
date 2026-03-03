@@ -31,14 +31,14 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&theme=dark" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&theme=radical" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&theme=tokyonight&locale=en" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&theme=radical&locale=en" height="180px" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=radical" width="100%" />
 </div>
 
 ---
