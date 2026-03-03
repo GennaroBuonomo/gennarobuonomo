@@ -48,7 +48,7 @@
   <a href="mailto:gennarobuonomo66@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ff9416?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=ff9416" />
   </a>
