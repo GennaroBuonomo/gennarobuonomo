@@ -15,7 +15,7 @@
 <br />
 
 ### 💫 About Me
-" am a Frontend Developer dedicated to creating pixel-perfect, responsive, and user-friendly web interfaces. I love transforming complex problems into beautiful digital experiences, constantly exploring new technologies to build innovative projects."
+"I am a Frontend Developer dedicated to creating pixel-perfect, responsive, and user-friendly web interfaces. I love transforming complex problems into beautiful digital experiences, constantly exploring new technologies to build innovative projects."
 
 ---
 
