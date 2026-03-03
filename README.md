@@ -45,17 +45,12 @@
 
 <div align="center">
 
-### 🤝 Get in Touch
+<div align="center">
 
-<a href="mailto:gennarobuonomo66@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/g3nnar0_bu0n0m0/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+## 🤝 Let's Connect
 
-<br><br>
-
-![Creative Divider](https://capsule-render.vercel.app/render?type=waving&color=0080FF&height=100&section=footer)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gennarobuonomo66@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/g3nnar0_bu0n0m0/)
 
 </div>
