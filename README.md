@@ -44,10 +44,10 @@
 
 ---
 
-### 📊 GitHub Ecosystem
+### 🎯 Current Focus & Milestones
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&bg_color=282828&title_color=ff9416&icon_color=f9f06b&text_color=ffffff&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&bg_color=282828&title_color=ff9416&text_color=ffffff&locale=en&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=dark&background=282828&fire=ff9416&ring=ff9416&stroke=f9f06b&currStreakNum=ffffff&hide_border=true)
+*   🔭 **Attualmente concentrato su:** Creazione di interfacce web pixel-perfect e ultra-responsive, privilegiando il controllo totale con **Custom CSS** (Flexbox/Grid).
+*   🌱 **Sto approfondendo:** L'ecosistema **TypeScript** per rendere le mie applicazioni MERN ancora più scalabili e robuste.
+*   🎓 **Traguardo recente:** Ho concluso un Master intensivo di 600 ore (6 mesi) in Full-Stack Web Development, dove ho imparato a gestire l'intero ciclo di vita di un'app.
+*   💼 **Obiettivo:** Entrare in una realtà aziendale strutturata come Junior Frontend Developer per contribuire a progetti complessi e continuare a crescere.
+*   ⚡ **Fuori dal codice:** Quando non sto debuggando, costruisco la mia disciplina e resilienza tra un campo da tennis, la palestra e la piscina. La stessa tenacia la metto nel risolvere i bug più ostinati!
