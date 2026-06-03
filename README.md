@@ -46,11 +46,8 @@
 
 ### 📊 GitHub Ecosystem
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&bg_color=282828&title_color=ff9416&icon_color=f9f06b&text_color=ffffff&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&bg_color=282828&title_color=ff9416&text_color=ffffff&locale=en&hide_border=true" height="195" alt="Top Langs" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&bg_color=282828&title_color=ff9416&icon_color=f9f06b&text_color=ffffff&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=dark&background=282828&fire=ff9416&ring=ff9416&stroke=f9f06b&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&bg_color=282828&title_color=ff9416&text_color=ffffff&locale=en&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=dark&background=282828&fire=ff9416&ring=ff9416&stroke=f9f06b&currStreakNum=ffffff&hide_border=true)
