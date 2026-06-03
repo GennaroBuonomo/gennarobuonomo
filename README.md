@@ -1,12 +1,17 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9416&height=250&section=header&text=Ciao!%20Sono%20Gennaro&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Junior%20Web%20Developer&descAlignY=55&descAlign=62" alt="Header Animato" />
+</div>
+
+<div align="center">
   <p align="center">
-    <img src="https://img.shields.io/badge/GENNARO-BUONOMO-ff9416?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/WEB-FRONTEND-282828?style=for-the-badge&logo=javascript&logoColor=0D1117" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-50fa7b?style=for-the-badge" />
+    <a href="https://linkedin.com/in/TuoLinkLinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:gennarobuonomo66@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff9416?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=ff9416" alt="Instagram" /></a>
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-50fa7b?style=for-the-badge" alt="Status" />
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff9416&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Pixel-Perfect+Design;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff9416&center=true&vCenter=true&width=550&lines=Junior+Full-Stack+%2F+Frontend+Developer;Crafting+Pixel-Perfect+UI%2FUX;MERN+Stack+Enthusiast;Building+Responsive+Web+Apps" alt="Typing SVG" />
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=GennaroBuonomo&label=PROFILE+VIEWS&color=ff9416&style=for-the-badge" alt="views" />
@@ -14,14 +19,27 @@
 
 <br />
 
-### 💫 About Me
-"I am a Frontend Developer dedicated to creating pixel-perfect, responsive, and user-friendly web interfaces. I love transforming complex problems into beautiful digital experiences, constantly exploring new technologies to build innovative projects."
+### 👨‍💻 About Me
+"Transforming complex problems into beautiful, responsive digital experiences."
+
+* 🚀 **Junior Web Developer** con una forte passione per la **UI/UX** e per il controllo totale del design tramite custom CSS (Flexbox/Grid).
+* 🎓 Ho completato un intensivo **Master in Full-Stack Web Development di 600 ore (6 mesi)**.
+* 💡 Sviluppo attivamente utilizzando il **MERN stack** (MongoDB, Express, React, Node.js) e sto approfondendo **TypeScript**.
+* 🎯 Attualmente mi concentro sulla creazione di interfacce web pixel-perfect e user-friendly.
+
+---
+
+### 🏆 Featured Projects
+| Progetto | Descrizione | Tech Stack |
+|---------|-------------|------------|
+| **[Tokyo Explorer](#)** | Web app dal design custom per esplorare i luoghi iconici e il cibo di Tokyo. Focus estremo sui dettagli UI/UX e layout responsivi. | `React`, `Custom CSS` |
+| **[Boolique](#)** | Piattaforma e-commerce sviluppata in team seguendo la metodologia Agile, con logica frontend avanzata e un'esperienza utente fluida. | `JavaScript`, `Frontend` |
 
 ---
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,bootstrap&theme=dark" alt="My Skills" />
 </p>
 
 ---
@@ -31,19 +49,12 @@
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&bg_color=282828&title_color=ff9416&icon_color=f9f06b&text_color=ffffff" />
+        <img src="https://github-readme-stats.vercel.app/api?username=GennaroBuonomo&show_icons=true&bg_color=282828&title_color=ff9416&icon_color=f9f06b&text_color=ffffff&hide_border=true" alt="Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&bg_color=282828&title_color=ff9416&text_color=ffffff&locale=en" height="180px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GennaroBuonomo&layout=compact&bg_color=282828&title_color=ff9416&text_color=ffffff&locale=en&hide_border=true" height="180px" alt="Top Langs" />
       </td>
     </tr>
   </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=dark&background=282828&fire=ff9416&ring=ff9416&stroke=f9f06b&currStreakNum=ffffff" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GennaroBuonomo&theme=dark&background=282828&fire=ff9416&ring=ff9416&stroke=f9f06b&currStreakNum=ffffff&hide_border=true" width="100%" alt="Streak" />
 </div>
-
----
-
-### 🤝 Let's Connect
-<p align="center">
-  <a href="mailto:gennarobuonomo66@gmail.com"><img src="https://img.shields.io/badge/Gmail-ff9416?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;<a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=ff9416" /></a>
-</p>
