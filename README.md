@@ -23,7 +23,7 @@ I am a **Junior Web Developer** dedicated to creating pixel-perfect, responsive,
 
 ### 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,bootstrap,git,vscode&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,bootstrap,git,vscode&theme=dark" alt="My Skills" />
 </p>
 
 ---
