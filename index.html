@@ -4,101 +4,263 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gennaro Buonomo | Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
     <style>
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #1a1a1a;
-            color: #ffffff;
+        /* RESET & VARIABILI */
+        :root {
+            --bg-color: #0b0f19;
+            --card-bg: #131a2c;
+            --accent-color: #ff9416;
+            --text-main: #ffffff;
+            --text-muted: #94a3b8;
+            --border-color: rgba(255, 255, 255, 0.05);
+        }
+
+        * {
+            box-sizing: border-box;
             margin: 0;
-            padding: 20px;
-            display: flex;
-            justify-content: center;
+            padding: 0;
         }
-        .container {
-            max-width: 800px;
-            width: 100%;
-            background: #242424;
-            padding: 30px;
-            border-radius: 12px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+
+        html {
+            scroll-behavior: smooth;
         }
-        h3 {
-            color: #ff9416;
-            font-size: 1.5rem;
-            border-bottom: 1px solid #333;
-            padding-bottom: 10px;
-        }
-        p {
+
+        body {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
             line-height: 1.6;
-            color: #cccccc;
+            overflow-x: hidden;
         }
-        a {
-            color: #ff9416;
+
+        /* HEADER / NAVBAR */
+        header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            padding: 20px 10%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(11, 15, 25, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-bottom: var(--border-color) 1px solid;
+            z-index: 1000;
+        }
+
+        .logo {
+            font-weight: 700;
+            font-size: 1.2rem;
+            color: var(--text-main);
             text-decoration: none;
         }
-        a:hover {
-            text-decoration: underline;
+        .logo span {
+            color: var(--accent-color);
         }
+
+        nav a {
+            color: var(--text-muted);
+            text-decoration: none;
+            margin-left: 25px;
+            font-weight: 500;
+            font-size: 0.95rem;
+            transition: color 0.3s ease;
+        }
+
+        nav a:hover {
+            color: var(--accent-color);
+        }
+
+        /* STRUTTURA DELLE SEZIONI */
+        section {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 100px 20px 40px 20px;
+        }
+
+        /* HERO SECTION */
+        .hero {
+            padding-top: 150px;
+            text-align: center;
+        }
+
+        .hero-banner {
+            margin-bottom: 30px;
+            border-radius: 16px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+        }
+
+        .hero-badges {
+            margin: 25px 0;
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+
+        /* DETTAGLI DELLE SCHEDE (CARDS) */
+        .section-title {
+            font-size: 1.8rem;
+            font-weight: 700;
+            margin-bottom: 30px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .section-title span {
+            color: var(--accent-color);
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+            transition: transform 0.3s ease, border-color 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: rgba(255, 148, 22, 0.3);
+        }
+
+        .card p {
+            color: var(--text-muted);
+            font-size: 1.05rem;
+            margin-bottom: 15px;
+        }
+
+        /* SEZIONE TECH STACK */
+        .tech-box {
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        /* GRIGLIA TRAGUARDI / LIFESTYLE */
+        .grid-lifestyle {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+        }
+        @media (min-width: 768px) {
+            .grid-lifestyle {
+                grid-template-columns: 1fr 1fr;
+            }
+        }
+
+        /* CONTATTI */
+        .connect-box {
+            text-align: center;
+        }
+        .connect-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        /* FOOTER */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+            border-top: 1px solid var(--border-color);
+            margin-top: 60px;
+        }
+
         hr {
-            border: 0;
-            height: 1px;
-            background: #333;
-            margin: 30px 0;
+            display: none; /* Rimosse le linee hr vecchio stile per un look più pulito */
         }
     </style>
 </head>
 <body>
 
-<div class="container">
+    <header>
+        <a href="#" class="logo">GB<span>.</span></a>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#tech">Skills</a>
+            <a href="#lifestyle">Lifestyle</a>
+            <a href="#connect">Contatti</a>
+        </nav>
+    </header>
 
-  <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9416&height=150&section=header&text=Hello,%20I'm%20Gennaro!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Web%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=55&descAlign=50" width="100%" />
+    <section class="hero">
+        <div class="hero-banner">
+            <img src="https://capsule-render.vercel.app/api?type=waving&color=ff9416&height=150&section=header&text=Hello,%20I'm%20Gennaro!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Junior%20Web%20Developer%20|%20UI/UX%20Enthusiast&descAlignY=55&descAlign=50" width="100%" alt="Header" />
+        </div>
 
-    <p align="center">
-      <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-50fa7b?style=for-the-badge&logo=opslevel&logoColor=282828" /></a>
-      <img src="https://img.shields.io/badge/FRONTEND-Passionate-ff9416?style=for-the-badge&logo=react&logoColor=white" />
-      <img src="https://img.shields.io/badge/DESIGN-Pixel_Perfect-282828?style=for-the-badge&logo=figma&logoColor=ff9416" />
-    </p>
+        <div class="hero-badges">
+            <a href="https://linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-50fa7b?style=for-the-badge&logo=opslevel&logoColor=282828" alt="Status" /></a>
+            <img src="https://img.shields.io/badge/FRONTEND-Passionate-ff9416?style=for-the-badge&logo=react&logoColor=white" alt="Frontend" />
+            <img src="https://img.shields.io/badge/DESIGN-Pixel_Perfect-282828?style=for-the-badge&logo=figma&logoColor=ff9416" alt="Design" />
+        </div>
 
-    <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff9416&center=true&vCenter=true&width=500&lines=Building+responsive+web+interfaces;Crafting+custom+CSS+layouts;Exploring+the+MERN+Stack;Always+learning,+always+coding" alt="Typing SVG" />
-    </p>
+        <div style="margin: 20px 0;">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff9416&center=true&vCenter=true&width=500&lines=Building+responsive+web+interfaces;Crafting+custom+CSS+layouts;Exploring+the+MERN+Stack;Always+learning,+always+coding" alt="Typing SVG" />
+        </div>
 
-    <img src="https://komarev.com/ghpvc/?username=GennaroBuonomo&label=PROFILE+VIEWS&color=ff9416&style=for-the-badge" alt="views" />
-  </div>
+        <div style="margin-top: 15px;">
+            <img src="https://komarev.com/ghpvc/?username=GennaroBuonomo&label=PROFILE+VIEWS&color=ff9416&style=for-the-badge" alt="views" />
+        </div>
+    </section>
 
-  <br />
+    <section id="about">
+        <h2 class="section-title"><span>💫</span> About Me</h2>
+        <div class="card">
+            <p>I am a <strong>Junior Web Developer</strong> dedicated to creating pixel-perfect, responsive, and user-friendly web interfaces.</p>
+            <p>I have a strong passion for UI/UX design, often preferring the total control of custom CSS (Flexbox & Grid) to craft unique, tailored digital experiences rather than relying exclusively on pre-built frameworks.</p>
+            <p>I love transforming complex problems into clean, efficient code, constantly pushing my boundaries across the frontend and the MERN stack.</p>
+        </div>
+    </section>
 
-  <h3>💫 About Me</h3>
-  <p>I am a <strong>Junior Web Developer</strong> dedicated to creating pixel-perfect, responsive, and user-friendly web interfaces. I have a strong passion for UI/UX design, often preferring the total control of custom CSS (Flexbox & Grid) to craft unique, tailored digital experiences rather than relying exclusively on pre-built frameworks. I love transforming complex problems into clean, efficient code, constantly pushing my boundaries across the frontend and the MERN stack.</p>
+    <section id="tech">
+        <h2 class="section-title"><span>🚀</span> Tech Stack</h2>
+        <div class="card tech-box">
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,bootstrap,git,vscode&theme=dark" alt="My Skills" />
+        </div>
+    </section>
 
-  <hr />
+    <section id="lifestyle">
+        <h2 class="section-title"><span>📈</span> Traguardi & Lifestyle</h2>
+        <div class="grid-lifestyle">
+            <div class="card">
+                <p>Oltre allo sviluppo software, trovo il mio equilibrio e la mia spinta motivazionale attraverso lo sport. Pratico regolarmente <strong>tennis, nuoto, calcio e allenamento in palestra</strong>, attività che mi insegnano ogni giorno l'importanza della resilienza, della disciplina e del miglioramento continuo.</p>
+            </div>
+            <div class="card">
+                <p>Che si tratti di superare le sfide di un Master intensivo di 600 ore in Web Development, o di risolvere un bug complesso in un'applicazione React, applico sempre la stessa mentalità sportiva: concentrazione, duro lavoro e determinazione nel raggiungere l'obiettivo.</p>
+            </div>
+        </div>
+    </section>
 
-  <h3>🚀 Tech Stack</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mysql,bootstrap,git,vscode&theme=dark" alt="My Skills" />
-  </p>
+    <section id="connect">
+        <h2 class="section-title"><span>🤝</span> Let's Connect</h2>
+        <div class="card connect-box">
+            <p>Sei interessato a collaborare o vuoi semplicemente fare due chiacchiere sul codice? Contattami!</p>
+            <div class="connect-buttons">
+                <a href="mailto:gennarobuonomo66@gmail.com">
+                    <img src="https://img.shields.io/badge/Gmail-ff9416?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+                </a>
+                <a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="_blank">
+                    <img src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=ff9416" alt="Instagram" />
+                </a>
+            </div>
+        </div>
+    </section>
 
-  <hr />
-
-  <h3>📈 Traguardi & Lifestyle</h3>
-  <p>Oltre allo sviluppo software, trovo il mio equilibrio e la mia spinta motivazionale attraverso lo sport. Pratico regolarmente <strong>tennis, nuoto, calcio e allenamento in palestra</strong>, attività che mi insegnano ogni giorno l'importance della resilienza, della disciplina e del miglioramento continuo.</p> 
-
-  <p>Che si tratti di superare le sfide di un Master intensivo di 600 ore in Web Development, o di risolvere un bug complesso in un'applicazione React, applico sempre la stessa mentalità sportiva: concentrazione, duro lavoro e determinazione nel raggiungere l'obiettivo.</p>
-
-  <hr />
-
-  <h3>🤝 Let's Connect</h3>
-  <p align="center">
-    <a href="mailto:gennarobuonomo66@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-ff9416?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/g3nnar0_bu0n0m0/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-282828?style=for-the-badge&logo=instagram&logoColor=ff9416" />
-    </a>
-  </p>
-
-</div>
+    <footer>
+        <p>&copy; 2026 Gennaro Buonomo. Built with custom CSS Grid & Flexbox.</p>
+    </footer>
 
 </body>
 </html>
