@@ -43,10 +43,10 @@ Che si tratti di superare le sfide di un **Master intensivo di 600 ore in Web De
 
 | Progetto | Descrizione | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **🏥 MediCare Pro** | Dashboard SPA per il monitoraggio dei reparti ospedalieri e gestione del rischio clinico. | `React` `CSS Custom` | [Repo](#) |
-| **💴 FinDash** | Dashboard finanziaria con visualizzazione dati avanzata e layout sartoriali. | `React` `CSS Grid/Flexbox` | [Repo](#) |
-| **🗼 Tokyo Explorer** | Web app interattiva dedicata all'esplorazione turistica e gastronomica giapponese. | `React` `JavaScript` | [Repo](#) |
-| **🛍️ Boolique** | Piattaforma e-commerce responsive full-stack sviluppata in team Agile (4 persone). | `React` `Node.js` | [Repo](#) |
+| **🏥 MediCare Pro** | Dashboard SPA per il monitoraggio dei reparti ospedalieri e gestione del rischio clinico. | `React` `CSS Custom` |
+| **💴 FinDash** | Dashboard finanziaria con visualizzazione dati avanzata e layout sartoriali. | `React` `CSS Grid/Flexbox` |
+| **🗼 Tokyo Explorer** | Web app interattiva dedicata all'esplorazione turistica e gastronomica giapponese. | `React` `JavaScript` |
+| **🛍️ Boolique** | Piattaforma e-commerce responsive full-stack sviluppata in team Agile (4 persone). | `React` `Node.js` |
 
 ---
 
