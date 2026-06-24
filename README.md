@@ -26,7 +26,7 @@ Mi entusiasma trasformare problemi complessi in codice pulito ed efficiente, spi
 ## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,bootstrap,git,vscode,tailwind&theme=dark" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mysql,bootstrap,git,vscode" alt="My Skills" />
 </div>
 
 ---
@@ -42,7 +42,7 @@ Che si tratti di superare le sfide di un **Master intensivo di 600 ore in Web De
 ## 🛠️ Featured Projects
 
 | Progetto | Descrizione | Tech Stack |
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- |
 | **🏥 MediCare Pro** | Dashboard SPA per il monitoraggio dei reparti ospedalieri e gestione del rischio clinico. | `React` `CSS Custom` |
 | **💴 FinDash** | Dashboard finanziaria con visualizzazione dati avanzata e layout sartoriali. | `React` `CSS Grid/Flexbox` |
 | **🗼 Tokyo Explorer** | Web app interattiva dedicata all'esplorazione turistica e gastronomica giapponese. | `React` `JavaScript` |
